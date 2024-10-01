@@ -1,6 +1,6 @@
 # Sol_da_meia_noite
 
-### Bloco 1: Cadastro e Gerenciamento de Clientes e Equipamentos
+### Bloco 1: Cadastro e Gerenciamento de Clientes e Equipamentos-Bianca
 
 **Funcionalidades:**
 - **1. Cadastro de Clientes:**
@@ -29,7 +29,7 @@
 
 ---
 
-### Bloco 2: Solicitação e Dimensionamento de Projetos
+### Bloco 2: Solicitação e Dimensionamento de Projetos-João
 
 **Funcionalidades:**
 - **3. Solicitação de Projetos:**
@@ -53,7 +53,7 @@
 
 ---
 
-### Bloco 3: Módulos de Cliente e Empresa, e Relatórios
+### Bloco 3: Módulos de Cliente e Empresa, e Relatórios-RAFAEL
 
 **Funcionalidades:**
 
