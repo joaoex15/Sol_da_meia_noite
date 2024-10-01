@@ -1,5 +1,4 @@
 # Sol_da_meia_noite
-Claro! Vamos manter a numeração original das funcionalidades e requisitos, apenas dividindo em três blocos sem renumeração. Aqui está a divisão:
 
 ### Bloco 1: Cadastro e Gerenciamento de Clientes e Equipamentos
 
