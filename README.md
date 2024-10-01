@@ -16,6 +16,13 @@ Claro! Vamos manter a numeração original das funcionalidades e requisitos, ape
   - Antes de encerrar a aplicação, todos os dados (clientes, equipamentos e projetos, por exemplo) devem ser salvos em um arquivo texto (JSON ou CSV).
   - Ao iniciar a aplicação, ela deverá carregar os dados previamente salvos, se houver.
 
+- **7. Módulos de Cliente e Empresa:**
+  - O sistema deverá simular dois módulos:
+    - Módulo da Empresa: A empresa pode gerenciar solicitações, realizar o dimensionamento, gerar relatórios financeiros e notificar clientes.
+    - Módulo do Cliente: O cliente poderá solicitar projetos, receber orçamentos e aprová-los ou recusá-los.
+  - O sistema deve ter uma tela de login que diferenciará o acesso de clientes e empresa.
+  - Será preciso ter uma tela de cadastro para os clientes.
+
 **Requisitos Adicionais:**
 - Qualidade de Software: O código deverá ser modular e seguir boas práticas de desenvolvimento.
 - Tratamento de Exceções: O código deve prever e tratar adequadamente possíveis exceções e erros, garantindo a estabilidade da aplicação.
@@ -50,12 +57,6 @@ Claro! Vamos manter a numeração original das funcionalidades e requisitos, ape
 ### Bloco 3: Módulos de Cliente e Empresa, e Relatórios
 
 **Funcionalidades:**
-- **7. Módulos de Cliente e Empresa:**
-  - O sistema deverá simular dois módulos:
-    - Módulo da Empresa: A empresa pode gerenciar solicitações, realizar o dimensionamento, gerar relatórios financeiros e notificar clientes.
-    - Módulo do Cliente: O cliente poderá solicitar projetos, receber orçamentos e aprová-los ou recusá-los.
-  - O sistema deve ter uma tela de login que diferenciará o acesso de clientes e empresa.
-  - Será preciso ter uma tela de cadastro para os clientes.
 
 - **8. Decisão de Orçamento pelo Cliente:**
   - O cliente poderá listar todos os orçamentos gerados e terá a opção de aprová-los ou rejeitá-los diretamente na aplicação.
