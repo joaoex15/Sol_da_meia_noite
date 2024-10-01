@@ -79,4 +79,4 @@
 
 ---
 
-Com essa divisão, fica mais fácil para cada membro da equipe se concentrar em áreas específicas do projeto. Se precisar de mais orientações ou detalhes sobre cada funcionalidade, estou aqui para ajudar!
+
