@@ -1,0 +1,27 @@
+{
+  "fabricantes": [
+    {
+      "nome": "rocha"
+    }
+  ],
+  "placasSolares": [
+    {
+      "modelo": "placar v1",
+      "capacidade": 1000.0,
+      "preco": 100.0,
+      "fabricante": {
+        "nome": "rocha"
+      }
+    }
+  ],
+  "inversores": [
+    {
+      "modelo": "inversor",
+      "potencia": 1000.0,
+      "preco": 100.0,
+      "fabricante": {
+        "nome": "rocha"
+      }
+    }
+  ]
+}

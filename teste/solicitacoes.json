@@ -1,0 +1,30 @@
+[
+  {
+    "cliente": {
+      "nome": "Joao",
+      "endereco": "1",
+      "telefone": "1]",
+      "email": "joao",
+      "cpf": "1",
+      "estado": "Sergipe/SE"
+    },
+    "consumoMedio": 1000.0,
+    "status": "Pendente",
+    "estado": "Sergipe/SE",
+    "email": "joao"
+  },
+  {
+    "cliente": {
+      "nome": "pedro",
+      "endereco": "rua b",
+      "telefone": "1",
+      "email": "emailqualquer@hmail.com",
+      "cpf": "2",
+      "estado": "Sergipe/SE"
+    },
+    "consumoMedio": 1000.0,
+    "status": "Pendente",
+    "estado": "Sergipe/SE",
+    "email": "emailqualquer@hmail.com"
+  }
+]
